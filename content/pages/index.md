@@ -14,7 +14,8 @@ sections:
         url: /pricing
         style: primary
       - label: Google Play
-        url: /pricing
+        url: >-
+          https://play.google.com/store/apps/details?id=com.in.santosh.tiwari.s.s.styesh
         style: secondary
     image: images/hero.svg
     image_alt: Hero section placeholder image
