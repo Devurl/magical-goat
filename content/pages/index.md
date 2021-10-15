@@ -3,10 +3,12 @@ title: Home
 sections:
   - type: hero_section
     title: Santosh S Tiwari
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: |
+      Best Game And Application
+
+      Best Puzzle And Utility Game Or Apps
+
+      ITS ALL ABOUT TREND, OR MAKING THINK A TREND :)
     actions:
       - label: App Store
         url: /pricing
