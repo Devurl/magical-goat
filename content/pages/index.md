@@ -10,7 +10,7 @@ sections:
 
       ITS ALL ABOUT TREND, OR MAKING THINK A TREND :)
     actions:
-      - label: App Store
+      - label: Amazon Store
         url: /pricing
         style: primary
       - label: Google Play
