@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    subtitle: We Make love
+    subtitle: 'We Make '
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
